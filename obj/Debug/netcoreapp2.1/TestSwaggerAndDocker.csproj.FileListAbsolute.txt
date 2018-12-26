@@ -1,0 +1,14 @@
+C:\Users\samir\kali\TestSwaggerAndDocker\bin\Debug\netcoreapp2.1\TestSwaggerAndDocker.deps.json
+C:\Users\samir\kali\TestSwaggerAndDocker\bin\Debug\netcoreapp2.1\TestSwaggerAndDocker.runtimeconfig.json
+C:\Users\samir\kali\TestSwaggerAndDocker\bin\Debug\netcoreapp2.1\TestSwaggerAndDocker.runtimeconfig.dev.json
+C:\Users\samir\kali\TestSwaggerAndDocker\bin\Debug\netcoreapp2.1\TestSwaggerAndDocker.dll
+C:\Users\samir\kali\TestSwaggerAndDocker\bin\Debug\netcoreapp2.1\TestSwaggerAndDocker.pdb
+C:\Users\samir\kali\TestSwaggerAndDocker\obj\Debug\netcoreapp2.1\TestSwaggerAndDocker.csprojAssemblyReference.cache
+C:\Users\samir\kali\TestSwaggerAndDocker\obj\Debug\netcoreapp2.1\TestSwaggerAndDocker.csproj.CoreCompileInputs.cache
+C:\Users\samir\kali\TestSwaggerAndDocker\obj\Debug\netcoreapp2.1\TestSwaggerAndDocker.RazorAssemblyInfo.cache
+C:\Users\samir\kali\TestSwaggerAndDocker\obj\Debug\netcoreapp2.1\TestSwaggerAndDocker.RazorAssemblyInfo.cs
+C:\Users\samir\kali\TestSwaggerAndDocker\obj\Debug\netcoreapp2.1\TestSwaggerAndDocker.AssemblyInfoInputs.cache
+C:\Users\samir\kali\TestSwaggerAndDocker\obj\Debug\netcoreapp2.1\TestSwaggerAndDocker.AssemblyInfo.cs
+C:\Users\samir\kali\TestSwaggerAndDocker\obj\Debug\netcoreapp2.1\TestSwaggerAndDocker.RazorTargetAssemblyInfo.cache
+C:\Users\samir\kali\TestSwaggerAndDocker\obj\Debug\netcoreapp2.1\TestSwaggerAndDocker.dll
+C:\Users\samir\kali\TestSwaggerAndDocker\obj\Debug\netcoreapp2.1\TestSwaggerAndDocker.pdb
